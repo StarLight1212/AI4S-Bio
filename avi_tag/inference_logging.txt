@@ -1,0 +1,5 @@
+2025-04-08 22:31:21,153 - __main__ - INFO - Processing 10000 sequences
+2025-04-08 22:31:21,153 - __main__ - INFO - Loading model from model
+2025-04-08 22:32:24,754 - __main__ - INFO - Saved predictions to ./predictions.csv
+2025-04-08 22:35:34,363 - __main__ - INFO - Processing 1000000 sequences
+2025-04-08 22:35:34,364 - __main__ - INFO - Loading model from model
